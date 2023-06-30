@@ -1,0 +1,13 @@
+body {
+    background: #BBBBBB ;
+}
+#banner {
+    width: 20%;
+    height: 200px;
+    border: 10px solid;
+}
+li {
+    text-align: center;
+    font-size: 30px;
+    padding: 250px 250px; 
+}
